@@ -17,4 +17,4 @@ I’m diving into the world of forestry data, leveraging machine learning to pre
 
 ➡Once deployed, users can input data values, and the app predicts the forest cover type based on the provided factors.
 
-#ForestCover #LandCoverClassification hashtag#EnvironmentalData hashtag#DataScience hashtag#MachineLearning hashtag#PredictiveModeling hashtag#Forestry hashtag#ClimateScience hashtag#DataVisualization hashtag#ForestEcology hashtag#DataDriven hashtag#SustainableForestry hashtag#DataScienceProject hashtag#ForestCoverType hashtag#NatureData
+#ForestCover #LandCoverClassification #EnvironmentalData #DataScience #MachineLearning #PredictiveModeling #Forestry #ClimateScience #DataVisualization #ForestEcology #DataDriven #SustainableForestry #DataScienceProject #ForestCoverType #NatureData
